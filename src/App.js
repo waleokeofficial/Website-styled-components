@@ -14,7 +14,7 @@ function App() {
       <GlobalStyle></GlobalStyle>
         {/* <Navbar></Navbar> */}
         <Hero></Hero>
-        <Products heading="Choose your Favourote" data={ProductData}></Products>
+        <Products heading="Our Services" data={ProductData}></Products>
         {/* <Feature></Feature> */}
         <Feature></Feature>
         <Products heading="Check Out our other services" data={ProductDataTwo}></Products>
